@@ -48,7 +48,7 @@ img {
 .hero {
   background:
 
-    linear-gradient(135deg, rgba(8, 22, 44, 0.88), rgba(20, 54, 104, 0.82)),
+   linear-gradient(135deg, rgba(8, 22, 44, 0.88), rgba(20, 54, 104, 0.82) ,
 
     url("images/solution-car.svg") center/cover no-repeat;
 
@@ -100,7 +100,7 @@ img {
 
   padding: 42px 24px;
 
-  background: rgba(10, 24, 48, 0.42);
+  bacbackground: rgba(10, 24, 48, 0.62);
 
   border: 1px solid rgba(255, 255, 255, 0.16);
 
@@ -127,7 +127,7 @@ img {
   line-height: 1.15;
   margin-bottom: 18px;
   color: #ffffff;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.22);
+  text-shadow: 0 3px 14px rgba(0, 0, 0, 0.38);
 }
 .hero-content p {
 

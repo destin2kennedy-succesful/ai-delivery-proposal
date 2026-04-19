@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Secure coded access to delivery compartment">
+  <rect width="800" height="520" fill="#eef4fc"/>
+  <rect x="110" y="70" width="580" height="380" rx="28" fill="#ffffff" stroke="#d7e3f2" stroke-width="5"/>
+  <rect x="165" y="130" width="470" height="240" rx="24" fill="#143a6f"/>
+  <rect x="195" y="160" width="255" height="180" rx="18" fill="#1e4a87"/>
+  <rect x="480" y="160" width="125" height="180" rx="16" fill="#0f2947"/>
+  <text x="320" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#dceeff">Enter Pickup Code</text>
+  <g fill="#f6f9fe">
+    <circle cx="250" cy="245" r="20"/><circle cx="320" cy="245" r="20"/><circle cx="390" cy="245" r="20"/>
+    <circle cx="250" cy="300" r="20"/><circle cx="320" cy="300" r="20"/><circle cx="390" cy="300" r="20"/>
+  </g>
+  <g>
+    <rect x="505" y="190" width="75" height="75" rx="14" fill="#ffb347"/>
+    <path d="M542 213c-10 0-18 8-18 18v7h36v-7c0-10-8-18-18-18zm-11 25v30h22v-30h-22z" fill="#143a6f"/>
+  </g>
+  <text x="400" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#143a6f">Storage unlocks only after customer verification</text>
+</svg>
